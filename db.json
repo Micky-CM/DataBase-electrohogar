@@ -2,38 +2,6 @@
   "products": [
     {
       "id": 1,
-      "category": "Electrodomesticos",
-      "title": "Refrigerador Samsung",
-      "image": "https://m.media-amazon.com/images/I/51lGec8NhrL._AC_SL1000_.jpg",
-      "description": "Refrigerador Samsung de alta eficiencia energética con capacidad de 350L, Refrigerador de puerta francesa de 36 de 3 puertas con dispensador externo de hielo y agua y máquina de hielo automática doble.",
-      "price": 1849.75
-    },
-    {
-      "id": 2,
-      "category": "Electrodomesticos",
-      "title": "Lavadora LG",
-      "image": "https://m.media-amazon.com/images/I/61m2cCUhdbL._AC_SL1500_.jpg",
-      "description": "Lavadora LG  Lavadora portátil de 1.6 pies cúbicos, capacidad de 11 libras, lavadora compacta totalmente automática con ruedas, 6 programas de lavado, bomba....",
-      "price": 289.99
-    },
-    {
-      "id": 3,
-      "category": "Electrodomesticos",
-      "title": "Horno Microondas TOSHIBA",
-      "image": "https://m.media-amazon.com/images/I/81ObjihULmL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
-      "description": "Horno microondas TOSHIBA Combo de freidora de aire para horno de microondas y encimera, inversor, convección, asado, combo rápido, descongelación uniforme, sensor de humedad, función de silencio, 27 menú automático .",
-      "price": 839.46
-    },
-    {
-      "id": 4,
-      "category": "Electrodomesticos",
-      "title": "Aspiradora Dyson",
-      "image": "https://m.media-amazon.com/images/I/51hFJWAdfNL._AC_SX679_.jpg",
-      "description": "Aspiradora Dyson Ligero, Sin cable, Cabezal limpiador Motorbar™ para desenredar, Sin bolsa, Filtro lavable, 4 accesorios diseñados por Dyson, Inalámbrico.",
-      "price": 299.99
-    },
-    {
-      "id": 5,
       "category": "Televisores",
       "title": "Smart TV Samsung 55\"",
       "image": "https://m.media-amazon.com/images/I/61ko-eYRTVL._AC_SX466_.jpg",
@@ -41,7 +9,7 @@
       "price": 799.99
     },
     {
-      "id": 6,
+      "id": 2,
       "category": "Televisores",
       "title": "LG Pantalla plana de 65\"",
       "image": "https://m.media-amazon.com/images/I/81QAq0+lmxL._AC_SX466_.jpg",
@@ -49,7 +17,7 @@
       "price": 169.99
     },
     {
-      "id": 7,
+      "id": 3,
       "category": "Televisores",
       "title": "Smart TV Sony 50\"",
       "image": "https://m.media-amazon.com/images/tv_sony_50.jpg",
@@ -57,7 +25,7 @@
       "price": 199.99
     },
     {
-      "id": 8,
+      "id": 4,
       "category": "Televisores",
       "title": "Smart TV Hisense 43\"",
       "image": "https://m.media-amazon.com/images/I/713XodYViyL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
@@ -65,7 +33,7 @@
       "price": 169.99
     },
     {
-      "id": 9,
+      "id": 5,
       "category": "Celulares",
       "title": "iPhone 13",
       "image": "https://m.media-amazon.com/images/I/61TDqdjGSgL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
@@ -73,7 +41,7 @@
       "price": 149.99
     },
     {
-      "id": 10,
+      "id": 6,
       "category": "Celulares",
       "title": "Samsung Galaxy S21",
       "image": "https://m.media-amazon.com/images/I/61S8-z34EFL._AC_SX679_.jpg",
@@ -81,7 +49,7 @@
       "price": 329.99
     },
     {
-      "id": 11,
+      "id": 7,
       "category": "Celulares",
       "title": "Google Pixel 6",
       "image": "https://m.media-amazon.com/images/I/61ruKkvVIxL._AC_SX679_.jpg",
@@ -89,7 +57,7 @@
       "price": 329.99
     },
     {
-      "id": 12,
+      "id": 8,
       "category": "Celulares",
       "title": "Xiaomi Mi 11",
       "image": "https://m.media-amazon.com/images/I/51syvCSKr+S._AC_SY300_SX300_.jpg",
@@ -97,7 +65,7 @@
       "price": 599.99
     },
     {
-      "id": 13,
+      "id": 9,
       "category": "Audio",
       "title": "Audífonos Sony WH-1000XM4",
       "image": "https://m.media-amazon.com/images/I/51SKmu2G9FL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
@@ -105,7 +73,7 @@
       "price": 349.99
     },
     {
-      "id": 14,
+      "id": 10,
       "category": "Audio",
       "title": "VC Altavoz portátil SP-PA15BT",
       "image": "https://m.media-amazon.com/images/I/71mRaLaBQBL._AC_SX466_.jpg",
@@ -113,7 +81,7 @@
       "price": 149.99
     },
     {
-      "id": 15,
+      "id": 11,
       "category": "Audio",
       "title": "Barra de sonido Samsung",
       "image": "https://m.media-amazon.com/images/I/61jQT2fEYWL._AC_SX466_.jpg",
@@ -121,7 +89,7 @@
       "price": 197.99
     },
     {
-      "id": 16,
+      "id": 12,
       "category": "Audio",
       "title": "Audífonos Bose QuietComfort",
       "image": "https://m.media-amazon.com/images/I/51QeS0jkx-L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
@@ -129,7 +97,7 @@
       "price": 249.99
     },
     {
-      "id": 17,
+      "id": 13,
       "category": "Videojuegos",
       "title": "Consola PlayStation 5",
       "image": "https://m.media-amazon.com/images/I/31kTNmpm6vL._SX300_SY300_QL70_FMwebp_.jpg",
@@ -137,7 +105,7 @@
       "price": 469.99
     },
     {
-      "id": 18,
+      "id": 14,
       "category": "Videojuegos",
       "title": "Xbox Series X",
       "image": "https://m.media-amazon.com/images/I/51bcwM0qLaL._SX522_.jpg",
@@ -145,7 +113,7 @@
       "price": 448.99
     },
     {
-      "id": 19,
+      "id": 15,
       "category": "Videojuegos",
       "title": "Nintendo Switch",
       "image": "https://m.media-amazon.com/images/I/71wpE+ZIehL._SX522_.jpg",
@@ -153,12 +121,44 @@
       "price": 289.99
     },
     {
-      "id": 20,
+      "id": 16,
       "category": "Videojuegos",
       "title": "Control Xbox Elite Series 2",
       "image": "https://m.media-amazon.com/images/I/514euvnzNcL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
       "description": "Control personalizable Xbox Elite Series 2, con palancas de tensión ajustable y baterías recargables para hasta 40 horas de juego.",
       "price": 189.99
+    },
+    {
+      "id": 17,
+      "category": "Electrodomesticos",
+      "title": "Refrigerador Samsung",
+      "image": "https://m.media-amazon.com/images/I/51lGec8NhrL._AC_SL1000_.jpg",
+      "description": "Refrigerador Samsung de alta eficiencia energética con capacidad de 350L, Refrigerador de puerta francesa de 36 de 3 puertas con dispensador externo de hielo y agua y máquina de hielo automática doble.",
+      "price": 1849.75
+    },
+    {
+      "id": 18,
+      "category": "Electrodomesticos",
+      "title": "Lavadora LG",
+      "image": "https://m.media-amazon.com/images/I/61m2cCUhdbL._AC_SL1500_.jpg",
+      "description": "Lavadora LG  Lavadora portátil de 1.6 pies cúbicos, capacidad de 11 libras, lavadora compacta totalmente automática con ruedas, 6 programas de lavado, bomba....",
+      "price": 289.99
+    },
+    {
+      "id": 19,
+      "category": "Electrodomesticos",
+      "title": "Horno Microondas TOSHIBA",
+      "image": "https://m.media-amazon.com/images/I/81ObjihULmL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+      "description": "Horno microondas TOSHIBA Combo de freidora de aire para horno de microondas y encimera, inversor, convección, asado, combo rápido, descongelación uniforme, sensor de humedad, función de silencio, 27 menú automático .",
+      "price": 839.46
+    },
+    {
+      "id": 20,
+      "category": "Electrodomesticos",
+      "title": "Aspiradora Dyson",
+      "image": "https://m.media-amazon.com/images/I/51hFJWAdfNL._AC_SX679_.jpg",
+      "description": "Aspiradora Dyson Ligero, Sin cable, Cabezal limpiador Motorbar™ para desenredar, Sin bolsa, Filtro lavable, 4 accesorios diseñados por Dyson, Inalámbrico.",
+      "price": 299.99
     }
   ]
 }
