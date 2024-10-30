@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Electrodomesticos",
+      "title": "Refrigerador Samsung",
+      "image": "https://m.media-amazon.com/images/I/51lGec8NhrL._AC_SL1000_.jpg",
+      "description": "Refrigerador Samsung de alta eficiencia energética con capacidad de 350L, Refrigerador de puerta francesa de 36 de 3 puertas con dispensador externo de hielo y agua y máquina de hielo automática doble.",
+      "price": 1849.75
+    },
+    {
+      "id": 2,
+      "category": "Electrodomesticos",
+      "title": "Lavadora LG",
+      "image": "https://m.media-amazon.com/images/I/61m2cCUhdbL._AC_SL1500_.jpg",
+      "description": "Lavadora LG  Lavadora portátil de 1.6 pies cúbicos, capacidad de 11 libras, lavadora compacta totalmente automática con ruedas, 6 programas de lavado, bomba....",
+      "price": 289.99
+    },
+    {
+      "id": 3,
+      "category": "Electrodomesticos",
+      "title": "Horno Microondas TOSHIBA",
+      "image": "https://m.media-amazon.com/images/I/81ObjihULmL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+      "description": "Horno microondas TOSHIBA Combo de freidora de aire para horno de microondas y encimera, inversor, convección, asado, combo rápido, descongelación uniforme, sensor de humedad, función de silencio, 27 menú automático .",
+      "price": 839.46
+    },
+    {
+      "id": 4,
+      "category": "Electrodomesticos",
+      "title": "Aspiradora Dyson",
+      "image": "https://m.media-amazon.com/images/I/51hFJWAdfNL._AC_SX679_.jpg",
+      "description": "Aspiradora Dyson Ligero, Sin cable, Cabezal limpiador Motorbar™ para desenredar, Sin bolsa, Filtro lavable, 4 accesorios diseñados por Dyson, Inalámbrico.",
+      "price": 299.99
+    },
+    {
+      "id": 5,
+      "category": "Televisores",
+      "title": "Smart TV Samsung 55\"",
+      "image": "https://m.media-amazon.com/images/I/61ko-eYRTVL._AC_SX466_.jpg",
+      "description": "Televison SAMSUNG Smart TV Class 4K Crystal UHD de 55 pulgadas serie DU8000 HDR con sonido de seguimiento de objetos, Motion Xcelerator, diseño ultra delgado, concentrador de juegos, Alexa incorporado.",
+      "price": 799.99
+    },
+    {
+      "id": 6,
+      "category": "Televisores",
+      "title": "LG Pantalla plana de 65\"",
+      "image": "https://m.media-amazon.com/images/I/81QAq0+lmxL._AC_SX466_.jpg",
+      "description": "LG Pantalla plana de 65 pulgadas Class OLED evo C4 Series Smart TV 4K con control remoto mágico alimentado por IA con Alexa incorporado.",
+      "price": 169.99
+    },
+    {
+      "id": 7,
+      "category": "Televisores",
+      "title": "Smart TV Sony 50\"",
+      "image": "https://example.com/images/tv_sony_50.jpg",
+      "description": "Televisor Sony de 50 pulgadas con sistema Android TV que permite descargar aplicaciones y juegos. Pantalla con calidad Full HD, procesador X-Reality PRO que mejora el detalle y control de voz con Google Assistant.",
+      "price": 199.99
+    },
+    {
+      "id": 8,
+      "category": "Televisores",
+      "title": "Smart TV Hisense 43\"",
+      "image": "https://m.media-amazon.com/images/I/713XodYViyL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Televisor Hisense de 43 pulgadas con resolución Full HD y acceso a plataformas de streaming. Incluye función de pantalla dividida para multitareas y modo de bajo consumo de energía.",
+      "price": 169.99
+    },
+    {
+      "id": 9,
+      "category": "Celulares",
+      "title": "iPhone 13",
+      "image": "https://m.media-amazon.com/images/I/61TDqdjGSgL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "iPhone 13 con 128GB de almacenamiento, pantalla Super Retina XDR de 6.1 pulgadas y sistema de cámara dual de 12MP. Resistente al agua y al polvo con clasificación IP68, y chip A15 Bionic que mejora el rendimiento.",
+      "price": 149.99
+    },
+    {
+      "id": 10,
+      "category": "Celulares",
+      "title": "Samsung Galaxy S21",
+      "image": "https://m.media-amazon.com/images/I/61S8-z34EFL._AC_SX679_.jpg",
+      "description": "SAMSUNG Galaxy S21 FE 5G, teléfono inteligente Android desbloqueado de fábrica, pantalla de 128 GB, pantalla de 120 Hz, cámara de grado profesional, batería inteligente todo el día, versión estadounidense, blanco.",
+      "price": 329.99
+    },
+    {
+      "id": 11,
+      "category": "Celulares",
+      "title": "Google Pixel 6",
+      "image": "https://m.media-amazon.com/images/I/61ruKkvVIxL._AC_SX679_.jpg",
+      "description": "Google Pixel 6 - Teléfono Android 5G, teléfono inteligente desbloqueado con lente ancha y ultraancha, 128 GB, color negro tormentoso. Incluye funciones exclusivas de edición de fotos y batería de larga duración.",
+      "price": 329.99
+    },
+    {
+      "id": 12,
+      "category": "Celulares",
+      "title": "Xiaomi Mi 11",
+      "image": "https://m.media-amazon.com/images/I/51syvCSKr+S._AC_SY300_SX300_.jpg",
+      "description": "Xiaomi Mi 11 con procesador Snapdragon 888 y cámara de 108MP. Pantalla de 6.81 pulgadas y carga rápida de 55W, ideal para fotografía de alta resolución y videojuegos.",
+      "price": 599.99
+    },
+    {
+      "id": 13,
+      "category": "Audio",
+      "title": "Audífonos Sony WH-1000XM4",
+      "image": "https://m.media-amazon.com/images/I/51SKmu2G9FL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "description": "Auriculares inalámbricos de alta calidad con cancelación de ruido, duración de la batería de 30 horas, estilo sobre la oreja con micrófono para llamadas telefónicas y control de voz.",
+      "price": 349.99
+    },
+    {
+      "id": 14,
+      "category": "Audio",
+      "title": "VC Altavoz portátil SP-PA15BT",
+      "image": "https://m.media-amazon.com/images/I/71mRaLaBQBL._AC_SX466_.jpg",
+      "description": "JVC Altavoz portátil SP-PA15BT, salida máxima de 120 W con graves potentes, batería de 11 horas de duración con batería recargable, carga rápida, resistente al agua IPX6.",
+      "price": 149.99
+    },
+    {
+      "id": 15,
+      "category": "Audio",
+      "title": "Barra de sonido Samsung",
+      "image": "https://m.media-amazon.com/images/I/61jQT2fEYWL._AC_SX466_.jpg",
+      "description": "Barra de sonido Samsung con subwoofer inalámbrico, conectividad Bluetooth y tecnología Dolby Audio para una experiencia envolvente de sonido.",
+      "price": 197.99
+    },
+    {
+      "id": 16,
+      "category": "Audio",
+      "title": "Audífonos Bose QuietComfort",
+      "image": "https://m.media-amazon.com/images/I/51QeS0jkx-L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Audífonos Bose con cancelación activa de ruido, sonido envolvente y control por voz. Auriculares Bluetooth, con cancelación de ruido sobre la oreja con micrófono, hasta 24 horas de duración de la batería, color negro.",
+      "price": 249.99
+    },
+    {
+      "id": 17,
+      "category": "Videojuegos",
+      "title": "Consola PlayStation 5",
+      "image": "https://m.media-amazon.com/images/I/31kTNmpm6vL._SX300_SY300_QL70_FMwebp_.jpg",
+      "description": "Consola PlayStation 5 con gráficos de nueva generación y control DualSense con respuesta háptica. Amplio catálogo de juegos exclusivos y retrocompatibilidad con juegos de PS4.",
+      "price": 469.99
+    },
+    {
+      "id": 18,
+      "category": "Videojuegos",
+      "title": "Xbox Series X",
+      "image": "https://m.media-amazon.com/images/I/51bcwM0qLaL._SX522_.jpg",
+      "description": "Xbox Series X con capacidad de 1TB de almacenamiento, gráficos en 4K y soporte para juegos de última generación. Acceso a Xbox Game Pass y función de Quick Resume.",
+      "price": 448.99
+    },
+    {
+      "id": 19,
+      "category": "Videojuegos",
+      "title": "Nintendo Switch",
+      "image": "https://m.media-amazon.com/images/I/71wpE+ZIehL._SX522_.jpg",
+      "description": "Nintendo Switch, consola híbrida que permite jugar en modo portátil o conectado a la TV. Ideal para juegos en solitario y multijugador con acceso a títulos exclusivos de Nintendo.",
+      "price": 289.99
+    },
+    {
+      "id": 20,
+      "category": "Videojuegos",
+      "title": "Control Xbox Elite Series 2",
+      "image": "https://m.media-amazon.com/images/I/514euvnzNcL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "description": "Control personalizable Xbox Elite Series 2, con palancas de tensión ajustable y baterías recargables para hasta 40 horas de juego.",
+      "price": 189.99
+    }
+  ]
+}
